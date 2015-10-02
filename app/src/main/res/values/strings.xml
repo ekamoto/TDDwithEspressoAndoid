@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TDDwithEspressoAndoid</string>
+
+    <string name="hello_world">Welcome to TDD with Expresso</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Leandro Shindi Ekamoto</string>
+</resources>
